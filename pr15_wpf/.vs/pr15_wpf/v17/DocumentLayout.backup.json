@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\System\\pr15_wpf\\pr15_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\addchangeproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\addchangeproduct.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\addchangeproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\addchangeproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\changecategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\changecategory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\changecategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\changecategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\changetag.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\changetag.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\changetag.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\changetag.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-09\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\changebrand.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\changebrand.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\changebrand.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\changebrand.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\converter\\stocktoborderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:converter\\stocktoborderconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\models\\electrostorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:models\\electrostorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|c:\\system\\pr15_wpf\\pr15_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8414-2648-4CCA-83A3-3C185BD8969F}|pr15_wpf.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeCategory.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeCategory.xaml",
+              "RelativeDocumentMoniker": "Pages\\ChangeCategory.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeCategory.xaml",
+              "RelativeToolTip": "Pages\\ChangeCategory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T07:32:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ManagerPage.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ManagerPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ManagerPage.xaml.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:08:48.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddChangeProduct.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\AddChangeProduct.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddChangeProduct.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\AddChangeProduct.xaml",
+              "RelativeToolTip": "Pages\\AddChangeProduct.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T18:14:15.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddChangeProduct.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\AddChangeProduct.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddChangeProduct.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\AddChangeProduct.xaml.cs",
+              "RelativeToolTip": "Pages\\AddChangeProduct.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:23:05.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ElectroStoreContext.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Models\\ElectroStoreContext.cs",
+              "RelativeDocumentMoniker": "Models\\ElectroStoreContext.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Models\\ElectroStoreContext.cs",
+              "RelativeToolTip": "Models\\ElectroStoreContext.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:54:34.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerPage.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ManagerPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ManagerPage.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ManagerPage.xaml",
+              "RelativeToolTip": "Pages\\ManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T16:36:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T15:22:58.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAADwv/YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T10:34:17.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T08:49:31.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\st310-09\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\st310-09\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\st310-09\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\Users\\st310-09\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAwwP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:06:30.299Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangeTag.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeTag.xaml",
+              "RelativeDocumentMoniker": "Pages\\ChangeTag.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeTag.xaml",
+              "RelativeToolTip": "Pages\\ChangeTag.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T07:32:28.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T08:48:30.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangeCategory.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeCategory.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ChangeCategory.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeCategory.xaml.cs",
+              "RelativeToolTip": "Pages\\ChangeCategory.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:49:43.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangeBrand.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeBrand.xaml",
+              "RelativeDocumentMoniker": "Pages\\ChangeBrand.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeBrand.xaml",
+              "RelativeToolTip": "Pages\\ChangeBrand.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T07:32:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangeTag.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeTag.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ChangeTag.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeTag.xaml.cs",
+              "RelativeToolTip": "Pages\\ChangeTag.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:53:12.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "Pages\\Login.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:56:29.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChangeBrand.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeBrand.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ChangeBrand.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\ChangeBrand.xaml.cs",
+              "RelativeToolTip": "Pages\\ChangeBrand.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:38:55.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Pages\\Login.xaml",
+              "RelativeToolTip": "Pages\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T08:52:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockToBorderConverter.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Converter\\StockToBorderConverter.cs",
+              "RelativeDocumentMoniker": "Converter\\StockToBorderConverter.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Converter\\StockToBorderConverter.cs",
+              "RelativeToolTip": "Converter\\StockToBorderConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:22:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Service\\DBService.cs",
+              "RelativeDocumentMoniker": "Service\\DBService.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Service\\DBService.cs",
+              "RelativeToolTip": "Service\\DBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:59:49.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Models\\Tag.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Models\\Tag.cs",
+              "RelativeToolTip": "Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:56:13.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T10:41:39.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\System\\pr15_wpf\\pr15_wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\System\\pr15_wpf\\pr15_wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:48:28.264Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 50,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
